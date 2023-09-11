@@ -1,10 +1,7 @@
-<<<<<<< HEAD
-Generel text
-=======
 Tjenare Generel text
 Sak
 Tjenare
 
 
 Hej
->>>>>>> dev
+
